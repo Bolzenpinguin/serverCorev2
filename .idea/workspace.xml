@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c4a8d3b-1490-4bf0-9bb5-96bfe14305c4" name="Changes" comment="Big Refactor">
-      <change afterPath="$PROJECT_DIR$/instance/calender.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/calender.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/instance/calender.db" beforeDir="false" afterPath="$PROJECT_DIR$/instance/calender.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +26,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -52,6 +56,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Flask server.Flask (app.py).executor": "Run",
     "Flask server.Flask (run.py).executor": "Run",
+    "Flask server.serverCorev2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -94,8 +99,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
-        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.19072.16" />
+        <option value="bundled-python-sdk-8336bb23522e-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.19072.16" />
       </set>
     </attachedChunks>
   </component>
@@ -108,7 +113,8 @@
       <option name="presentableId" value="Default" />
       <updated>1723206400333</updated>
       <workItem from="1723206404756" duration="8481000" />
-      <workItem from="1723214916238" duration="347000" />
+      <workItem from="1723214916238" duration="4312000" />
+      <workItem from="1723800089661" duration="1763000" />
     </task>
     <task id="LOCAL-00001" summary="Setup POST GET DELETE">
       <option name="closed" value="true" />
@@ -150,7 +156,31 @@
       <option name="project" value="LOCAL" />
       <updated>1723214990003</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Big Refactor">
+      <option name="closed" value="true" />
+      <created>1723215269615</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723215269615</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Big Refactor">
+      <option name="closed" value="true" />
+      <created>1723215619752</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1723215619752</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Big Refactor">
+      <option name="closed" value="true" />
+      <created>1723215637882</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1723215637882</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +195,8 @@
     <option name="LAST_COMMIT_MESSAGE" value="Big Refactor" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/serverCorev2$Flask__run_py_.coverage" NAME="Flask (run.py) Coverage Results" MODIFIED="1723214801140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/serverCorev2$serverCorev2.coverage" NAME="serverCorev2 Coverage Results" MODIFIED="1723800092261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/serverCorev2$Flask__run_py_.coverage" NAME="Flask (run.py) Coverage Results" MODIFIED="1723903144137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/serverCorev2$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1723214294549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
