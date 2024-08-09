@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c4a8d3b-1490-4bf0-9bb5-96bfe14305c4" name="Changes" comment="Big Refactor">
-      <change afterPath="$PROJECT_DIR$/instance/calender.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/calender.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instance/calender.db" beforeDir="false" afterPath="$PROJECT_DIR$/instance/calender.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1723206400333</updated>
       <workItem from="1723206404756" duration="8481000" />
-      <workItem from="1723214916238" duration="347000" />
+      <workItem from="1723214916238" duration="637000" />
     </task>
     <task id="LOCAL-00001" summary="Setup POST GET DELETE">
       <option name="closed" value="true" />
@@ -150,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723214990003</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Big Refactor">
+      <option name="closed" value="true" />
+      <created>1723215269615</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1723215269615</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +173,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="Big Refactor" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/serverCorev2$Flask__run_py_.coverage" NAME="Flask (run.py) Coverage Results" MODIFIED="1723214801140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/serverCorev2$Flask__run_py_.coverage" NAME="Flask (run.py) Coverage Results" MODIFIED="1723215343629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/serverCorev2$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1723214294549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
